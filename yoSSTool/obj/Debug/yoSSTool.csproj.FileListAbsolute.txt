@@ -1,0 +1,10 @@
+C:\Users\chick\RiderProjects\yoSSTool\yoSSTool\bin\Debug\yoSSTool.exe.config
+C:\Users\chick\RiderProjects\yoSSTool\yoSSTool\bin\Debug\yoSSTool.exe
+C:\Users\chick\RiderProjects\yoSSTool\yoSSTool\bin\Debug\yoSSTool.pdb
+C:\Users\chick\RiderProjects\yoSSTool\yoSSTool\obj\Debug\yoSSTool.csprojAssemblyReference.cache
+C:\Users\chick\RiderProjects\yoSSTool\yoSSTool\obj\Debug\yoSSTool.Properties.Resources.resources
+C:\Users\chick\RiderProjects\yoSSTool\yoSSTool\obj\Debug\yoSSTool.csproj.GenerateResource.cache
+C:\Users\chick\RiderProjects\yoSSTool\yoSSTool\obj\Debug\yoSSTool.csproj.CoreCompileInputs.cache
+C:\Users\chick\RiderProjects\yoSSTool\yoSSTool\obj\Debug\yoSSTool.exe
+C:\Users\chick\RiderProjects\yoSSTool\yoSSTool\obj\Debug\yoSSTool.pdb
+C:\Users\chick\RiderProjects\yoSSTool\yoSSTool\obj\Debug\yoSSTool.SSTool.resources
